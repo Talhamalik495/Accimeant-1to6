@@ -1,0 +1,24 @@
+/* Uneversalselector */
+*{
+    background-color: lightgray;
+    font-size: 40px;
+}
+/* Child selector */
+li> a{
+    background-color:white;
+    color: green;
+}
+/* Class Selector */
+.a{
+    color: gray;
+    
+}
+/* Id Selector */
+#gg{background-color: white;
+  color: yellow; 
+}
+/* decendent selector */
+body h1{
+    background-color: rgb(250, 218, 223);
+    color: maroon;
+}

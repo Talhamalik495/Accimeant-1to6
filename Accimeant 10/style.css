@@ -1,0 +1,19 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNj4PU9N076oGCPME_i4P0s5IKhTtnkLpmA&usqp=CAU) ;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.dd{
+    background-color: rgba(255, 255, 255,0.3);
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 8px;
+    word-spacing: 10px;
+    margin-top:170px;
+    margin-right:350px;
+    margin-bottom: 170px;
+    margin-left:350px;
+    padding: 20px;
+}
